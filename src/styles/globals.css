@@ -1,8 +1,14 @@
-.box-model{
- height: 400px;
- width: 400px;
- box-sizing: content-box;
- margin: 10px;
- padding: 10px;
- border: 2px solid red;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+ .box-model{
+  height: 400px;
+  width: 400px;
+  box-sizing: content-box;
+  margin: 10px;
+  padding: 10px;
+  border: 2px solid red;
+ }
 }

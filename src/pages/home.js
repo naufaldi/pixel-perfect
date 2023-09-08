@@ -65,6 +65,15 @@ const Home = () => {
        * TODO : Style Layout
        * TODO : Style Beauty
        */}
+      {/* How it works, see 32 slide */}
+      {/*
+       * TODO : create slice
+       * TODO : create html structure
+       * TODO : Style Layout
+       * TODO : Style Beauty
+       * TODO : create dummy data
+       * TODO : create reusable component
+       */}
     </div>
   );
 };

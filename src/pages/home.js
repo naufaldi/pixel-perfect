@@ -5,6 +5,7 @@ import React from 'react';
 
 const Home = () => {
   return (
+    //  TO DO : 02 Make Flexbox and Grid
     <div>
       <nav className="max-w-screen-xl px-4 mx-auto ">
         <Logo className="h-[40px] w-auto" />
